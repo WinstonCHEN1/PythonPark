@@ -226,6 +226,12 @@
   * [好生猛，全球首款AI游戏问世！](https://mp.weixin.qq.com/s/EcYCjPbiHTmifPWDU5HJUg)
   * [在预言特朗普这件事上，ChatGPT输了！](https://mp.weixin.qq.com/s/motN88GhEqp7i6OAKPHe6Q)
   * [推荐 2 个 YYDS 开源项目！](https://mp.weixin.qq.com/s/h0uKgPAyZH39MU622CS8fw)
+  * [一个悄然崛起的国产开源项目，已开源!](https://mp.weixin.qq.com/s/brVYu1Xe2_NIKUirqe-xOw)
+  * [又一个悄然崛起的国产项目，已开源！](https://mp.weixin.qq.com/s/X05oVSCThup-I4e3ZZo5zQ)
+  * [吴恩达正式官宣，yyds ！！](https://mp.weixin.qq.com/s/oNn2myNb9KkqflEutef_5Q)
+  * [GitLab停止中国区用户访问，60天迁移干净！](https://mp.weixin.qq.com/s/wEsX9ZVaWbNyjNpcoLtGiw)
+  * [离谱，计算机女博士OnlyFans创业，年入千万...](https://mp.weixin.qq.com/s/HTCKdLTo3iYtkLd5lI8WBg)
+  * [第一波被AI抢活的受害者出现了...](https://mp.weixin.qq.com/s/KDYY1zLupbv338fooClxYw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
